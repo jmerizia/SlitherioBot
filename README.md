@@ -5,7 +5,7 @@ Convolutional neural network to play Slither.io with Python TensorFlow. <b>(Mac 
 - Set up a Virtual Environment with the dependencies installed (list below)
 - Clone repository <i>or</i> download slither.py
 - Run `python slither.py` in the terminal window
-- A FireFox window should open
+- A FireFox window should open in the top left corner of the screen
 
 <b>*DISCLAIMER: Do not have other processes/application running in the background while running this script. It DOES take control of your mouse during each game!*</b>
 
