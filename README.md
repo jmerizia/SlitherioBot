@@ -6,6 +6,6 @@ Convolutional neural network to play Slither.io with Python TensorFlow.
 - Clone repository <i>or</i> download slither.py
 - Run `python slither.py` in the terminal window
 
-### WARNING: Make sure
+#### WARNING: Make sure
 
 ## Dependencies
