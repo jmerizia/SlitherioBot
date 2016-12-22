@@ -18,4 +18,7 @@ Convolutional neural network to play Slither.io with Python TensorFlow. (Mac Onl
 - six (1.10.0)
 - python-xlib (0.18)
 - selenium (3.0.2)
-- 
+- Pillow (3.4.2)
+
+### Other Dependencies
+- FireFox webdriver
