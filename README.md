@@ -1,5 +1,5 @@
 # SlitherioBot
-Convolutional neural network to play Slither.io with Python TensorFlow. (Mac Only)
+Convolutional neural network to play Slither.io with Python TensorFlow. <b>(Mac Only)</b>
 
 ## To deploy:
 - Set up a Virtual Environment with the dependencies installed (list below)
